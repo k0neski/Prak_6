@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\bin\Debug\net6.0\Prak 6.exe
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\bin\Debug\net6.0\Prak 6.deps.json
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\bin\Debug\net6.0\Prak 6.runtimeconfig.json
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\bin\Debug\net6.0\Prak 6.dll
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\bin\Debug\net6.0\Prak 6.pdb
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.dll
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\refint\Prak 6.dll
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.pdb
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\Prak 6.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\колледж\мдк 02\Практические и Лабы\Prak 6\Prak 6\obj\Debug\net6.0\ref\Prak 6.dll
